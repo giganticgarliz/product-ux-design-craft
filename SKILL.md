@@ -138,6 +138,17 @@ Naming methods (jobs-to-be-done, journey map, heuristic eval, card sort, usabili
 - **Pace it.** Lead with a one-line TL;DR of the outcome so skimmers get the payoff; let the deep dive be optional.
 - **You are the narrator.** First person, a stance, the stakes *you* felt. Neutral third-person reads like a template.
 
+### 2f · Show it, don't just say it — text and image work as a pair
+
+Great case studies state the conclusion in **text first, then let the image prove it** — never a screenshot floating with no claim attached. Every image answers a sentence:
+
+- Problem statement → a visual that *shows* the problem (not a stock hero)
+- Research insight → the data or the quote, visualized
+- Design decision (the *why*) → the screenshot that shows *how* it plays out, captioned with the reason
+- Result → a **before → after**, with the exact change called out
+
+If a reviewer can delete your caption and lose nothing, the caption was decoration. Make the words and the picture need each other.
+
 ## 3 · Front-end craft & motion
 
 - The tells of "AI-generated" front-end: centered stacked sections, default palette, flat `shadow-md`, uniform 16px radius, same font for heading and body, everything fading in at once.
