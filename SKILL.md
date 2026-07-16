@@ -32,6 +32,44 @@ Golden rule that cuts across everything: **commit to a decision.** AI-generic de
 
 ## 2 · Case-study writing (the part most designers under-invest)
 
+A case study isn't a report of *what you did* — it's the story of *how you thought*. A reviewer spends 15–40 seconds deciding whether you can think, not just execute. Four things carry that: a clear **structure**, visible **method**, real **storytelling**, and finally the sentence-level voice.
+
+### 2a · The skeleton — what each beat has to do
+
+Strong case studies move through these beats (loose order, not rigid headings):
+
+1. **Context & role** — 2 lines: what it was, your role, the real constraint (timeframe / team / platform). Set the stakes fast.
+2. **The real problem (reframe)** — the brief you were *handed* vs. the problem you *decided* to solve. This is the beat most portfolios skip, and the most important one. "The ask was X. The real problem was Y." Get this right and the whole study reads as "thinks about product," not "makes screens."
+3. **Research → the one insight** — not "I ran interviews." The single thing you learned that *changed the direction*, anchored in a real observation or quote.
+4. **Explore & decide** — what you tried, what you *killed*, and the trade-off you made. Show at least one rejected direction. Judgment lives here.
+5. **Solution** — the design, narrated by *what each decision solves* — not a screenshot dump. Every hero shot answers a "why."
+6. **Impact** — what changed, with a defensible number or a real signal. **Before → after** beats a lonely stat.
+7. **Reflection** — one honest thing you'd change or learned. Specific, not "I'd iterate more."
+
+Test: if someone reads only the **headings + first line of each beat**, they should still get the whole arc. Write for the skimmer first.
+
+### 2b · Show the method — don't just name it
+
+Naming methods (jobs-to-be-done, journey map, heuristic eval, card sort, usability test) signals fluency — but only if the method *changed something in the story*:
+
+- **Tie each method to the decision it drove.** "The journey map showed the drop-off was at checkout, not signup — so I re-scoped." A journey map with no consequence is decoration.
+- **Match the method to the question:**
+  - *Discovery* (interviews, diary study, competitive teardown) → find the real problem
+  - *Synthesis* (affinity mapping, personas, JTBD, journey map) → turn mess into a direction
+  - *Ideation* (crazy-8s, How-Might-We) → widen before you narrow
+  - *Validation* (usability test, A/B, click test) → prove or kill a direction
+- **Include the failures the method caught.** "The first prototype tested badly — people couldn't find X — so I…" A method that never changed your mind reads fake.
+
+### 2c · Make it a story, not a slide dump
+
+- **One through-line.** Every strong case study has a spine — a tension raised early that everything resolves. If you can't say the project in one sentence ("How do you get strangers to trust each other enough to meet?"), the reader can't either.
+- **Structure around the problem's difficulty, not your UI screens.** Tension → resolution, not feature → feature.
+- **Show, don't tell.** "Users were frustrated" is telling. "One person closed the app mid-checkout and said 'I'll just call them'" is showing.
+- **Pace it.** Lead with a one-line TL;DR of the outcome so skimmers get the payoff; let the deep dive be optional.
+- **You are the narrator.** First person, a point of view, the stakes *you* felt. Neutral third-person reads like a template.
+
+### 2d · Sentence-level voice (the finish)
+
 - **The master test:** *"Could I paste this sentence into a different project — or a different designer's — unchanged?"* If yes, it's slop. Rewrite until it's only true here.
 - **Specificity = humanity.** Swap vague nouns ("users," "friction," "the platform") for the concrete thing only this project has — a real person, a real quote, a real number.
 - **Open with a moment or a tension, never a trend.** Not "In today's fast-paced world…" — a specific event, contradiction, or stake.
