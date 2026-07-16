@@ -14,12 +14,11 @@ This is an early, growing project. It gets **released piece by piece** — start
 
 ## What's here now
 
-- **`SKILL.md`** — the core design-craft guide, in five parts:
+- **`SKILL.md`** — the core design-craft guide, in four parts:
   1. Visual hierarchy & typography
   2. Case-study writing
   3. Front-end craft & motion
-  4. Talking about your design thinking
-  5. An anti-"slop" checklist (catching the generic/AI tells)
+  4. An anti-"slop" checklist (catching the generic/AI tells)
 
 It's written to drop into an AI coding/design assistant as a skill, but it reads fine as a plain guide too.
 

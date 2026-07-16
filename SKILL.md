@@ -117,14 +117,7 @@ Naming methods (jobs-to-be-done, journey map, heuristic eval, card sort, usabili
 - Bespoke moves: asymmetric grid + hairline dividers; genuine display/body font pairing with extreme weight contrast; **layered, color-tinted shadows**; a subtle noise texture; restraint — *not everything animates.*
 - **Motion grammar:** micro-interactions 100–150ms, UI feedback under 300ms, entrances with an ease-out curve. Only animate `transform` and `opacity`. Always respect `prefers-reduced-motion`. Reserved motion reads premium; reveal-everything reads AI.
 
-## 4 · Talking about your design thinking (interviews & presentations)
-
-- Senior-level judgment is about **articulating decisions**, not pushing pixels. "They wanted to dissect my decision-making, not my designs."
-- **Reframe first, then solution.** Most portfolios jump straight to the solution. Lead with how you redefined the problem — that one move turns "can design" into "can think about product."
-- **Surface trade-offs before you're asked.** Naming a downside, and a thing you'd change, is one of the strongest maturity signals.
-- **Turn adjectives into rules.** "Minimal / intuitive / clean" say nothing. "Max 3 primary actions on the driving screen, everything else one level down" is a real principle — it can be violated.
-
-## 5 · Anti-slop check (run this on any finished piece)
+## 4 · Anti-slop check (run this on any finished piece)
 
 Ban on sight, and ask what to reach for instead:
 
