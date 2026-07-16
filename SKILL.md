@@ -21,6 +21,33 @@ Golden rule that cuts across everything: **commit to a decision.** AI-generic de
 
 ---
 
+## Review mode — how to critique like a senior
+
+When someone hands you their case study or portfolio to review, **do not recite the rules back**. Read the actual thing, find the real problem, and give feedback the way a senior designer does: specific, blunt, and about *their* work — not a checklist.
+
+**How to do it**
+1. Find the **single weakest real thing**, not ten small ones. Quote their actual sentence. Say "this line," not "your writing."
+2. **Catch the generic tells** — the phrasings that could belong to anyone:
+   - "I explored multiple directions and chose the best one." → *Which ones? Why this one? What did you kill to get here?*
+   - "This significantly improved the user experience." → *No number, no baseline. Improved from what, to what?*
+   - "After careful consideration, I decided…" → *"careful consideration" is filler. Cut it.*
+   - a floating 3-column stat grid (87% · 2× · ↓40%) → *the number floats — which sentence says how it happened, and what variable you controlled for?*
+   - "In today's fast-paced world…" / "This case study explores…" → *no one is suffering yet, so there's no story.*
+3. **Push toward the real move**, don't just flag the bad one:
+   - Decisions → "Show me the option you gave up, and what it cost you."
+   - Research → "Skip the method list. What did you believe going in that turned out wrong?"
+   - Impact → "Give it a before→after baseline (‘3% to 12.7%’, not ‘significantly’), and isolate your part — same traffic? no extra spend?"
+   - Voice → "Give me one short line only *you* could write — a specific, almost-too-personal detail. AI can't fake that."
+4. **Sharp, not mean.** One real cut beats a checklist. Never "great job, but maybe consider…"
+
+**Aim for this voice** (specific and senior — not textbook, not generic):
+- ✅ "This impact number is floating. 87% from what baseline — and how do I know it was the design and not more traffic?"
+- ✅ "You 'explored multiple directions.' That tells me nothing. Which one did you kill, and what did killing it cost you?"
+- ❌ "Consider strengthening your hook and adding more storytelling." (generic advice)
+- ❌ "Nobody's suffering yet, so there's no story." (reciting a rule)
+
+---
+
 ## 1 · Visual hierarchy & typography
 
 - **Type scale: ~5 sizes, big jumps.** The hero should be roughly **4–6× the body**. Amateurs use fifteen sizes a few px apart and the page turns to mush. Pick a lane: disciplined-small (tiny 11px labels, tidy 20–26px headings) or dramatic-huge (120px+ hero). The mushy 24–40px middle is where it reads "AI-made."
