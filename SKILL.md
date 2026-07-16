@@ -13,7 +13,7 @@ Design school gives you the tools and methods. But real projects don't come with
 
 ## How to use
 
-1. Name what you're working on: **layout/type**, **case-study writing**, **front-end/motion**, **how to talk about your thinking**, or "**does this feel AI/generic?**"
+1. Name what you're working on: **layout/type**, **case-study writing**, **front-end/motion**, **how is the story telling**, or "**What else is missing**"
 2. Jump to that section below. Apply the rules to the specific thing in front of you.
 3. When reviewing existing work, run the **Anti-slop check** last — it catches what the others miss.
 
