@@ -10,7 +10,7 @@ This is that guide — distilled from tearing apart ~75 strong designer portfoli
 
 ## 🚧 Status: ongoing, built in public
 
-This is an early, growing project. It gets **released piece by piece** — start with the core guide, more coming. If a section feels thin, that's because it hasn't been built yet, not because it's done.
+This is an early, growing project. It gets **released piece by piece** — start with the core guide, more coming.
 
 ## What's here now
 
@@ -23,7 +23,7 @@ This is an early, growing project. It gets **released piece by piece** — start
 
 It's written to drop into an AI coding/design assistant as a skill, but it reads fine as a plain guide too.
 
-## Roadmap (rough, will change)
+## Rough Roadmap
 
 - [ ] Worked before/after examples for each rule
 - [ ] Own concept diagrams (type scale, weight, grid, hierarchy)
@@ -41,10 +41,6 @@ That's the point. If you're a designer who's felt this exact pain:
 - **Improve the writing.**
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md). No contribution is too small.
-
-## Why it's free
-
-This isn't a product and I'm not trying to make money off it. It's a thing I needed, made open so other designers don't have to start from scratch. Use it, fork it, teach with it.
 
 ## Keep it running (optional)
 
