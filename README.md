@@ -1,6 +1,6 @@
 # Product/UX Design Craft
 
-**A reference guide for keeping your product & UX design work at a consistent standard — portfolio, case studies, presentations — without it reading as generic or AI-made.**
+**A reference guide for keeping your product & UX design work at a consistent standard — portfolio, case studies, presentations.
 
 > Design school teaches the tools and the methods. But real projects don't come with a correct route. Every project has its own story, and the hard part is deciding how to solve it *and* how to express that. There's a ton of great design to learn from, but just sorting through it is its own full-time job.
 >
