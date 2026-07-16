@@ -32,50 +32,84 @@ Golden rule that cuts across everything: **commit to a decision.** AI-generic de
 
 ## 2 · Case-study writing (the part most designers under-invest)
 
-A case study isn't a report of *what you did* — it's the story of *how you thought*. A reviewer spends 15–40 seconds deciding whether you can think, not just execute. Four things carry that: a clear **structure**, visible **method**, real **storytelling**, and finally the sentence-level voice.
+A case study isn't a report of *what you did* — it's the story of *how you thought*. A reviewer spends 15–40 seconds deciding whether you can think, not just execute. This is usually the weakest, most templated part of a portfolio, which makes it the highest-leverage place to get better.
 
-### 2a · The skeleton — what each beat has to do
+### 2a · The master test — run it on every sentence
 
-Strong case studies move through these beats (loose order, not rigid headings):
+> **"Could I paste this sentence into a different project — or a different designer's — unchanged?"**
+> If yes, it's slop. Rewrite until it's only true *here*.
+
+This is the whole game. Case-study writing reads as AI/template not because the words are wrong, but because every sentence is portable. The fix is always the same: **put a specific person in a specific moment and say the one thing only you would say.** ("Made with love and Mango Green Teas, 50% sugar, less ice" could only be written by someone who drank it.)
+
+### 2b · The skeleton — what each beat has to do
+
+Loose order, not rigid headings:
 
 1. **Context & role** — 2 lines: what it was, your role, the real constraint (timeframe / team / platform). Set the stakes fast.
-2. **The real problem (reframe)** — the brief you were *handed* vs. the problem you *decided* to solve. This is the beat most portfolios skip, and the most important one. "The ask was X. The real problem was Y." Get this right and the whole study reads as "thinks about product," not "makes screens."
-3. **Research → the one insight** — not "I ran interviews." The single thing you learned that *changed the direction*, anchored in a real observation or quote.
-4. **Explore & decide** — what you tried, what you *killed*, and the trade-off you made. Show at least one rejected direction. Judgment lives here.
-5. **Solution** — the design, narrated by *what each decision solves* — not a screenshot dump. Every hero shot answers a "why."
-6. **Impact** — what changed, with a defensible number or a real signal. **Before → after** beats a lonely stat.
-7. **Reflection** — one honest thing you'd change or learned. Specific, not "I'd iterate more."
+2. **The real problem (reframe)** — the brief you were *handed* vs. the problem you *decided* to solve. Most portfolios skip this; it's the most important beat. "The ask was X. The real problem was Y." Nail it and the study reads as "thinks about product," not "makes screens."
+3. **Research → the one insight** — not "I ran interviews." The single thing you learned that *changed the direction*.
+4. **Explore & decide** — what you tried, what you *killed*, the trade-off you made. Judgment lives here.
+5. **Solution** — narrated by *what each decision solves*, not a screenshot dump. Every hero shot answers a "why."
+6. **Impact** — a defensible number or real signal; **before → after** beats a lonely stat.
+7. **Reflection** — one honest thing you'd change. Specific, not "I'd iterate more."
 
 Test: if someone reads only the **headings + first line of each beat**, they should still get the whole arc. Write for the skimmer first.
 
-### 2b · Show the method — don't just name it
+### 2c · The craft, technique by technique
 
-Naming methods (jobs-to-be-done, journey map, heuristic eval, card sort, usability test) signals fluency — but only if the method *changed something in the story*:
+Each move below = the principle → a pattern you can copy → a real example (credited) → the AI tell → a 30-second drill.
+
+**Opening — the hook. The first sentence decides everything.**
+A story needs a hook whose only job is to make the reader keep going, and its engine is conflict: someone is suffering, and it isn't you. So the first line does one of:
+- a **moment** — a real event with irreversible stakes. *(Perry Wang opens on the day Stadia announced its shutdown — a live countdown, zero adjectives · perryw-2023.webflow.io)*
+- a **contradiction** — tension in one line. *("The manager bought it. The operator had to live with it." — Arthur Kamsky · arthurkamsky.com)*
+- a **stake you can picture** — cause → consequence, not "a high-stakes industry."
+- a **paradox / reframe** — "X isn't the problem — Y is." *(Julia Fernandez opens her misinformation project this way; it instantly reads as systems thinking · juliafernandez.design)*
+- a **title-as-thesis** — the headline *is* the argument. *("Built as a Swiss knife. Redesigned as a scalpel." — Arthur Kamsky)*
+
+*AI tell:* "In today's fast-paced world…", a market-size stat, or "This case study explores…" — no one is suffering yet, so there's no story.
+*Drill:* delete your opening line; rewrite it 3 ways (moment / contradiction / paradox); keep the one that fails the paste test hardest.
+
+**Research → the one insight.**
+Don't narrate the process ("I ran 8 interviews, then affinity-mapped…"). Tell the reader the *single* thing you learned that changed the direction, anchored in a real observation or quote. The strongest research beats **overturn your own assumption**: "I assumed A. The research said B."
+
+*AI tell:* "Users experienced difficulty and desired a more intuitive solution."
+*Drill:* write your research as one sentence — "I thought ___, but ___, so I ___."
+
+**Decisions & trade-offs — where judgment shows.**
+Junior writing says "I chose the better option." Senior writing **names the naive path first, then the cost of the one you took**: "The obvious move was to reduce taps. But the real problem was trust — so I spent the budget on X and gave up Y." Show at least one killed direction; a project with no rejected options reads fake.
+
+*Drill:* for your main decision, write — "The obvious version was ___. I chose ___ instead, and the cost was ___."
+
+**Business / product thinking — hang the design on a consequence.**
+Tie design moves to something beyond the screen — a metric, a behavior, a business outcome. Numbers live *inside sentences* (with a source), never in a hollow 3-column stat grid.
+
+*AI tell:* "This improved the overall user experience."
+
+**Voice — the part AI can't fake.**
+First person, a point of view, and the stakes *you* felt. Short hammer sentences to land a judgment. Admit a real weakness ("I weighed the first option higher than it deserved") — honesty reads senior, defensiveness reads junior.
+
+*AI tell:* neutral third-person; "With more time, I would iterate further."
+
+### 2d · Show the method — don't just name it
+
+Naming methods (jobs-to-be-done, journey map, heuristic eval, card sort, usability test) signals fluency only if the method *changed something in the story*:
 
 - **Tie each method to the decision it drove.** "The journey map showed the drop-off was at checkout, not signup — so I re-scoped." A journey map with no consequence is decoration.
 - **Match the method to the question:**
   - *Discovery* (interviews, diary study, competitive teardown) → find the real problem
   - *Synthesis* (affinity mapping, personas, JTBD, journey map) → turn mess into a direction
-  - *Ideation* (crazy-8s, How-Might-We) → widen before you narrow
+  - *Ideation* (Crazy Eights, How-Might-We) → widen before you narrow
   - *Validation* (usability test, A/B, click test) → prove or kill a direction
 - **Include the failures the method caught.** "The first prototype tested badly — people couldn't find X — so I…" A method that never changed your mind reads fake.
 
-### 2c · Make it a story, not a slide dump
+### 2e · Make it a story, not a slide dump
 
-- **One through-line.** Every strong case study has a spine — a tension raised early that everything resolves. If you can't say the project in one sentence ("How do you get strangers to trust each other enough to meet?"), the reader can't either.
+- **One through-line.** A spine — a tension raised early that everything resolves. If you can't say the project in one sentence ("How do you get strangers to trust each other enough to meet?"), the reader can't either.
 - **Structure around the problem's difficulty, not your UI screens.** Tension → resolution, not feature → feature.
 - **Show, don't tell.** "Users were frustrated" is telling. "One person closed the app mid-checkout and said 'I'll just call them'" is showing.
 - **Pace it.** Lead with a one-line TL;DR of the outcome so skimmers get the payoff; let the deep dive be optional.
-- **You are the narrator.** First person, a point of view, the stakes *you* felt. Neutral third-person reads like a template.
-
-### 2d · Sentence-level voice (the finish)
-
-- **The master test:** *"Could I paste this sentence into a different project — or a different designer's — unchanged?"* If yes, it's slop. Rewrite until it's only true here.
-- **Specificity = humanity.** Swap vague nouns ("users," "friction," "the platform") for the concrete thing only this project has — a real person, a real quote, a real number.
-- **Open with a moment or a tension, never a trend.** Not "In today's fast-paced world…" — a specific event, contradiction, or stake.
-- **Show the road not taken.** A designer who only says "I chose the better option" reads junior. Say what you gave up and why: "The obvious move was X. I went with Y, and here's the cost."
-- **Insight = overturning your own assumption.** Not "users wanted X" — "I assumed A, the research said B."
-- **Numbers live inside sentences,** not in hollow 3-column stat grids. And source them, or cut them.
+- **You are the narrator.** First person, a stance, the stakes *you* felt. Neutral third-person reads like a template.
 
 ## 3 · Front-end craft & motion
 
