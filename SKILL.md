@@ -113,6 +113,14 @@ Tie design moves to something beyond the screen — a metric, a behavior, a busi
 
 *AI tell:* "This improved the overall user experience."
 
+**Impact — and it doesn't have to be a number.**
+You often won't have access to metrics. That's fine — impact is still real. Show one of these instead:
+- *Before → after:* the old flow took more steps, or failed a heuristic pass, or was slower to first value. Put the two states side by side.
+- *During the work:* you caught the insight that changed the direction; you built the component the team now reuses; you shaped a handoff a dev could ship without a meeting.
+- *After it shipped:* a user said something specific — quote them; the pattern you set became the default for others; the complaints on that flow went quiet.
+
+Pick the most concrete, true one. "No metrics" is never "no impact" — it's just a lazier sentence.
+
 **Voice — the part AI can't fake.**
 First person, a point of view, and the stakes *you* felt. Short hammer sentences to land a judgment. Admit a real weakness ("I weighed the first option higher than it deserved") — honesty reads senior, defensiveness reads junior.
 
