@@ -114,12 +114,29 @@ Tie design moves to something beyond the screen — a metric, a behavior, a busi
 *AI tell:* "This improved the overall user experience."
 
 **Impact — and it doesn't have to be a number.**
-You often won't have access to metrics. That's fine — impact is still real. Show one of these instead:
-- *Before → after:* the old flow took more steps, or failed a heuristic pass, or was slower to first value. Put the two states side by side.
-- *During the work:* you caught the insight that changed the direction; you built the component the team now reuses; you shaped a handoff a dev could ship without a meeting.
-- *After it shipped:* a user said something specific — quote them; the pattern you set became the default for others; the complaints on that flow went quiet.
+You often won't have access to metrics — NDA, no analytics, shipped after you left, concept work. That's fine: impact is still real, it just lives in a different tense. Reach for the most concrete, *true* signal from one of these three timeframes.
 
-Pick the most concrete, true one. "No metrics" is never "no impact" — it's just a lazier sentence.
+*Before → after (the delta you can show):*
+- The old flow took N steps; yours takes fewer — count them.
+- The old screen failed a heuristic pass (or an accessibility check); yours doesn't — name which one.
+- Time-to-first-value dropped — put the two states literally side by side and let the reader see it.
+- It went from "needs a support call to complete" to "self-serve."
+
+*During the work (impact on the team and the direction):*
+- You caught the insight that changed the direction — the reframe nobody had named yet.
+- You built the component / pattern / token the team now reuses.
+- You shaped a handoff clean enough a dev shipped it without a follow-up meeting.
+- You killed a feature that would've shipped — and were right.
+- You turned a vague brief into a decision the stakeholders could actually sign off on.
+
+*After it shipped (proof it landed):*
+- A user said something specific — quote them verbatim.
+- The pattern you set became the default others copy.
+- Support tickets / complaints on that flow went quiet — silence is a result.
+- Adoption spread by word of mouth, or another team asked for it next.
+- It's still in production, unchanged, N months later — durability is impact.
+
+Pick one, make it specific, and show your part in it. "No metrics" is never "no impact" — it's just a lazier sentence.
 
 **Voice — the part AI can't fake.**
 First person, a point of view, and the stakes *you* felt. Short hammer sentences to land a judgment. Admit a real weakness ("I weighed the first option higher than it deserved") — honesty reads senior, defensiveness reads junior.
